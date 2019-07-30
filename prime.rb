@@ -1,6 +1,7 @@
 require 'prime'
 
-def prime?
+def prime?(n)
   
-  
+  Prime.prime?(n)
+end 
   
