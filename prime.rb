@@ -3,7 +3,8 @@
 def prime?(n)
   
   if n%2 == 0 
-    true 
+    return true 
+  
   end 
 
 end 
