@@ -1,4 +1,4 @@
-def get_prime_no_upto(number)
+def prime?(number)
   start = 2
   primes = (start..number).to_a
   (start..number).each do |no|
