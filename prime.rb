@@ -1,3 +1,5 @@
+require 'prime'
+
 def prime?
   
   
